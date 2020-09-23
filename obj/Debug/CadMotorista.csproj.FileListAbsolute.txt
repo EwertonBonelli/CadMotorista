@@ -1,0 +1,12 @@
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\bin\Debug\CadMotorista.exe.config
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\bin\Debug\CadMotorista.exe
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\bin\Debug\CadMotorista.pdb
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.csprojAssemblyReference.cache
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.Form1.resources
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.Properties.Resources.resources
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.csproj.GenerateResource.cache
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.csproj.CoreCompileInputs.cache
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.exe
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.pdb
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.Menu.resources
+C:\Users\ewert\Documents\PROJETOSGITHUB\CadMotorista\obj\Debug\CadMotorista.Pesquisar.resources
